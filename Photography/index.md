@@ -36,7 +36,7 @@ feature_row4:
     excerpt: "This is a series of images I submitted to [subjectively objective](https://subjectivelyobjective.com/)'s Investigations in Infrastructure book/gallery project. I had a photo accepted and published in the final book, [which you can buy here](https://subjectivelyobjective.com/product/investigations-in-infrastructure/). I think my submitted photos make for a small but cohesive collection in their own right."
 ---
 
-As a photographer, I am particularly interested in the following topics: non-landscape nature photography, urban landscape photography, the fuzzy edges where manmade structures impose into nature and nature imposes back, and toilets. I strongly value composition over narrative focus, and I find joy in the feeling of a beautiful photograph arranging itself before my eyes as I move my feet.
+As a photographer, I am particularly interested in the following topics: non-landscape nature photography, urban landscape photography, the fuzzy edges where manmade structures impose into nature and nature imposes back, and toilets. I strongly value composition over narrative focus, and I find joy in the feeling of a beautiful photograph arranging itself before my eyes as I move my feet. The world has a boundless ability to produce beauty, often in unexpected places, and my goal as a photographer is to discover and share that beauty.
 
 I have had work featured in [Subjectively Objective](https://subjectivelyobjective.com/)'s books and gallery, and [Black Box Gallery](https://blackboxgallery.com/) in Portland.
 
